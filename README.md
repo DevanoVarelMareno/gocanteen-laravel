@@ -37,6 +37,10 @@ Tabel `menus`:
 | created_at | timestamp | Waktu dibuat |
 | updated_at | timestamp | Waktu diupdate |
 
+## 🚀 Akses 
+
+1. Buka `http://127.0.0.1:8000/menu`
+
 ## 👤 Developer
 
 - **Nama:** Bondan Setya Adi Nugraha
