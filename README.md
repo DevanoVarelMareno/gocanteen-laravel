@@ -1,19 +1,19 @@
-# 🍛 Go.Canteen — Laravel CRUD Menu
+#  Go.Canteen — Laravel CRUD Menu
 
 Implementasi fitur CRUD Menu dari project Go.Canteen menggunakan Laravel 10.
 
-## 📋 Deskripsi
+##  Deskripsi
 
 Go.Canteen adalah sistem informasi pemesanan kantin berbasis web untuk mendukung ekonomi digital di lingkungan kampus. Project ini merupakan implementasi ulang fitur **Kelola Menu** dari project UTS Go.Canteen (PHP Native) ke dalam framework **Laravel 10**.
 
-## ✨ Fitur
+##  Fitur
 
-- ➕ **Create** — Tambah menu baru dengan nama, deskripsi, harga, stok, emoji, dan kategori
-- 📋 **Read** — Menampilkan daftar semua menu dalam bentuk tabel
-- ✏️ **Update** — Edit data menu yang sudah ada
-- 🗑️ **Delete** — Hapus menu dengan konfirmasi
+-  **Create** — Tambah menu baru dengan nama, deskripsi, harga, stok, emoji, dan kategori
+-  **Read** — Menampilkan daftar semua menu dalam bentuk tabel
+-  **Update** — Edit data menu yang sudah ada
+-  **Delete** — Hapus menu dengan konfirmasi
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework** : Laravel 10
 - **Language** : PHP 8.2
@@ -21,7 +21,7 @@ Go.Canteen adalah sistem informasi pemesanan kantin berbasis web untuk mendukung
 - **Frontend** : Blade Template + Tailwind CSS (CDN)
 - **Tools** : Composer, PHP Artisan
 
-## 🗃️ Struktur Database
+##  Struktur Database
 
 Tabel `menus`:
 | Kolom | Tipe | Keterangan |
@@ -37,11 +37,11 @@ Tabel `menus`:
 | created_at | timestamp | Waktu dibuat |
 | updated_at | timestamp | Waktu diupdate |
 
-## 🚀 Akses 
+##  Akses 
 
 1. Buka `http://127.0.0.1:8000/menu`
 
-## 👤 Developer
+##  Developer
 
 - **Nama:** Bondan Setya Adi Nugraha
 - **NPM:** 24082010255
