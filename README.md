@@ -37,16 +37,6 @@ Tabel `menus`:
 | created_at | timestamp | Waktu dibuat |
 | updated_at | timestamp | Waktu diupdate |
 
-## 🚀 Cara Menjalankan
-
-1. Clone repository ini
-2. Jalankan `composer install`
-3. Copy `.env.example` ke `.env`
-4. Sesuaikan konfigurasi database di `.env`
-5. Jalankan `php artisan migrate`
-6. Jalankan `php artisan serve`
-7. Buka `http://127.0.0.1:8000/menu`
-
 ## 👤 Developer
 
 - **Nama:** Bondan Setya Adi Nugraha
