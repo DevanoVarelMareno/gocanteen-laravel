@@ -43,7 +43,7 @@ Tabel `menus`:
 
 ##  Developer
 
-- **Nama:** Bondan Setya Adi Nugraha
-- **NPM:** 24082010255
+- **Nama:** Devano Varel Mareno
+- **NPM:** 24082010264
 - **Kelas:** 4-F
 - **Mata Kuliah:** Pemrograman Web
